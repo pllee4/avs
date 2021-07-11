@@ -1,8 +1,7 @@
 # AVS
 Uber Autonomous Visualization System (AVS)
 
-https://user-images.githubusercontent.com/42335542/125196097-12e10380-e28b-11eb-93d2-2d230de11b9b.mp4
-
+![avs_gif](https://user-images.githubusercontent.com/42335542/125197013-a36d1300-e28e-11eb-89b8-e4d6ce058e7d.gif)
 
 ## To run example of AVS
 ```
