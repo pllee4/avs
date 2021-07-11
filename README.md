@@ -1,10 +1,15 @@
 # AVS
+Uber Autonomous Visualization System (AVS)
+
+https://user-images.githubusercontent.com/42335542/125196097-12e10380-e28b-11eb-93d2-2d230de11b9b.mp4
+
 
 ## To run example of AVS
 ```
 $ sudo apt install nodejs npm
 $ sudo npm install --global yarn
 ```
+
 ## Clone XVIZ
 ```
 $ git clone https://github.com/uber/xviz.git
@@ -44,7 +49,9 @@ $ ./scripts/run-kitti-example.sh
 ## Run example client
 ```
 $ git clone https://github.com/uber/streetscape.gl.git
-$ cd streetscape.gl/examples/get-started
+$ cd streetscape.gl
+$ yarn bootstrap
+$ cd examples/get-started
 $ yarn start-streaming local
 ```
 
