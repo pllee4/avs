@@ -51,7 +51,7 @@ $ git clone https://github.com/uber/streetscape.gl.git
 $ cd streetscape.gl
 $ yarn bootstrap
 $ cd examples/get-started
-$ yarn start-streaming local
+$ yarn start-streaming-local
 ```
 
 ## References
